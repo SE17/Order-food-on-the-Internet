@@ -1,6 +1,5 @@
 # Order-food-on-the-Internet
 网上购菜系统
-# 本地运行
-下载databaseScript/*.sql
-运行脚本创建数据库
-分别运行consumer/
+运行 Order-food-on-the-Internet/DatabaseScript/*.sql
+创建数据库
+打开 .net项目 Order-food-on-the-Internet/consumer/OnlineOrder/OnlineOrder.sln
