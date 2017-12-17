@@ -1,0 +1,5 @@
+E:\Web应用程序asp.net\网上订菜系统\OnlineOrder\OnlineOrder\bin\OnlineOrder.dll
+E:\Web应用程序asp.net\网上订菜系统\OnlineOrder\OnlineOrder\bin\OnlineOrder.pdb
+E:\Web应用程序asp.net\网上订菜系统\OnlineOrder\OnlineOrder\obj\Debug\ResolveAssemblyReference.cache
+E:\Web应用程序asp.net\网上订菜系统\OnlineOrder\OnlineOrder\obj\Debug\OnlineOrder.dll
+E:\Web应用程序asp.net\网上订菜系统\OnlineOrder\OnlineOrder\obj\Debug\OnlineOrder.pdb
